@@ -234,4 +234,4 @@ Set `APP_ENV=prod` and `API_BASE_URL=https://erp.blackbuilding.com` in
 
 ---
 
-🛠 Built for Black Building Academy — Powered by ERPNext / Frappe.
+🛠 Built for Black Building Academy.

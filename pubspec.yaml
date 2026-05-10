@@ -1,5 +1,5 @@
 name: bb_academy_hrms
-description: Black Building Academy HRMS — Employee management mobile app powered by ERPNext / Frappe.
+description: Black Building Academy HRMS — Employee management mobile app.
 publish_to: "none"
 version: 1.0.0+1
 
@@ -59,8 +59,8 @@ dev_dependencies:
   riverpod_generator: ^2.4.3
   freezed: ^2.5.7
   json_serializable: ^6.8.0
-  custom_lint: ^0.6.7
-  riverpod_lint: ^2.3.13
+  custom_lint: ^0.7.3
+  riverpod_lint: ^2.6.0
 
 flutter:
   uses-material-design: true
@@ -69,14 +69,3 @@ flutter:
     - assets/images/
     - assets/icons/
     - assets/lottie/
-  fonts:
-    - family: Inter
-      fonts:
-        - asset: assets/fonts/Inter-Regular.ttf
-          weight: 400
-        - asset: assets/fonts/Inter-Medium.ttf
-          weight: 500
-        - asset: assets/fonts/Inter-SemiBold.ttf
-          weight: 600
-        - asset: assets/fonts/Inter-Bold.ttf
-          weight: 700

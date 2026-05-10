@@ -158,7 +158,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                   const SizedBox(height: 24),
                   const Center(
                     child: Text(
-                      'Powered by ERPNext • Frappe Framework',
+                      'Powered by Dream Tech Solution',
                       style: TextStyle(fontSize: 11, color: AppColors.textMuted),
                     ),
                   ),
